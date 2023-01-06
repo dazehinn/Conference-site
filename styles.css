@@ -33,7 +33,9 @@ nav {
 }
 
 .cclogo {
-  display: none;
+position: absolute;
+top: 5px;
+left: 40%;
 }
 
 .link-items {
@@ -371,6 +373,11 @@ nav {
   color: #838383;
 }
 
+.previous-summit-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 .prev-summit-img {
   width: 354px;
   margin: 12px;
