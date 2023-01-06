@@ -152,7 +152,7 @@ Special thanks go to [Cindy Shin](https://www.behance.net/adagio07) for her desi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [Creative Commons](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
