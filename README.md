@@ -36,7 +36,7 @@
 
 # 📖 Conference site <a name="about-project"></a>
 
-**Conference Site** is a project that immitates the website of creative commons 2015 conference.
+**Conference Site** is a project that imitates the website of creative commons 2015 conference.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,7 +63,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://dazehinn.github.io/personal-portfolio/)
+- [Live Demo Link](https://dazehinn.github.io/Conference-site)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +144,7 @@ If you like this project follow me on GitHub, twitter and LinkedIn
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my coding partners and standup team for their encouragements
-Special thanks go to (Ciny Shin)[https://www.behance.net/adagio07] for her design in Behance
+Special thanks go to [Cindy Shin](https://www.behance.net/adagio07) for her design in Behance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
