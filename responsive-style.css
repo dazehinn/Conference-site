@@ -16,6 +16,7 @@
   .cclogo {
     width: 125px;
     display: inline;
+    position: static;
   }
 
   .link-items {
