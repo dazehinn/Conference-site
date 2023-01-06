@@ -33,9 +33,9 @@ nav {
 }
 
 .cclogo {
-position: absolute;
-top: 5px;
-left: 40%;
+  position: absolute;
+  top: 5px;
+  left: 40%;
 }
 
 .link-items {
@@ -378,6 +378,7 @@ left: 40%;
   flex-wrap: wrap;
   justify-content: center;
 }
+
 .prev-summit-img {
   width: 354px;
   margin: 12px;
