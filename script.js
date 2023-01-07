@@ -59,11 +59,14 @@ for (let i = 0; i < speakers.length; i += 1) {
   speakerPosition.classList.add('speaker-position');
   speakerPosition.textContent = speakers[i].title;
 
+  const line = document.createElement('hr');
+  line.classList.add('line');
+
   const speakerBio = document.createElement('p');
   speakerBio.classList.add('speaker-bio');
   speakerBio.textContent = speakers[i].bio;
 
-  speakerInfo.append(speakerName, speakerPosition, speakerBio);
+  speakerInfo.append(speakerName, speakerPosition, line, speakerBio);
   card.append(cardImg, speakerInfo);
 
   speakerGroup.appendChild(card);
