@@ -1,9 +1,4 @@
 @media screen and (min-width: 768px) {
-  /*  .welcome {
-    padding: auto 240PX;
-  }
-*/
-
   nav {
     margin-bottom: 40px;
     padding: 24px 40px;
@@ -65,9 +60,13 @@
   .joyful,
   .schedule,
   .museum {
-    width: 375px;
+    width: 620px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .main-heading {
+    font-size: 4vw;
   }
 
   .programs {
@@ -99,14 +98,6 @@
     grid-template-columns: 1fr 1fr;
   }
 
-  .more-Btn {
-    /* display: none; */
-  }
-
-  .partners {
-    padding-bottom: 40px;
-  }
-
   .logo-group {
     display: flex;
     justify-content: space-around;
@@ -133,13 +124,13 @@
   }
 
   .credit {
-    width: 158px;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 15px;
-    line-height: 13px;
-    letter-spacing: -0.01em;
-    color: #3b3e45;
+    width: 258px;
+    line-height: 23px;
+    color: #fff;
+  }
+
+  .partners {
+    display: none;
   }
 
   .intro-about {
@@ -152,5 +143,25 @@
   .logo-info {
     background-color: #fff;
     border-bottom: 1px solid gray;
+  }
+
+  .logo-section {
+    border: 1px solid #aaa;
+    padding: 25px;
+    width: 350px;
+    margin-top: 25px;
+  }
+
+  #footer {
+    background-color: #3b3e45;
+    padding: 24px;
+  }
+
+  #footerImg1 {
+    display: none;
+  }
+
+  #footerImg2 {
+    display: inline;
   }
 }
