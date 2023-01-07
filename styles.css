@@ -32,6 +32,10 @@ nav {
   padding: 24px;
 }
 
+.nav-banner {
+  display: none;
+}
+
 .cclogo {
   position: absolute;
   top: 5px;
@@ -105,7 +109,7 @@ nav {
   font-weight: 900;
   font-size: 7vw;
   margin-bottom: 40px;
-  background: url(img/about_2013.png);
+  background: url(img/overlay3.jfif);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
