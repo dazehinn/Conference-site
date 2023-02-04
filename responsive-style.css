@@ -1,0 +1,198 @@
+@media screen and (min-width: 768px) {
+  nav {
+    margin-bottom: 40px;
+    padding: 34px 0 12px 0;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .nav-banner {
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 190px 0 0;
+    gap: 20px;
+    width: 100%;
+    height: 30px;
+    background-color: #3e3e3e;
+    margin-bottom: 40px;
+  }
+
+  .nav-banner span {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #fff;
+  }
+
+  .cclogo {
+    width: 125px;
+    display: inline;
+    position: static;
+  }
+
+  .link-items {
+    display: inline;
+    list-style: none;
+    float: right;
+    background-color: transparent;
+    position: static;
+    width: auto;
+    height: auto;
+  }
+
+  li {
+    display: inline;
+  }
+
+  .link-items a {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 12px 24px;
+    display: inline;
+    color: black;
+  }
+
+  .link-items a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+    color: orangered;
+  }
+
+  .link-items img,
+  .hamburger {
+    display: none;
+  }
+
+  .mobile-menu {
+    display: none;
+  }
+
+  .hello,
+  .main-heading,
+  .joyful,
+  .schedule,
+  .museum {
+    width: 620px;
+    padding-left: 40px;
+  }
+
+  .main-about,
+  .hello-about {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .main-heading {
+    font-size: 4vw;
+  }
+
+  .programs {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+  }
+
+  .program-activity {
+    flex-direction: column;
+    margin: 0;
+    width: 15%;
+  }
+
+  .joinCC {
+    display: none;
+  }
+
+  .seeWholeProgram {
+    display: block;
+  }
+
+  .speakers {
+    padding: 12px 140px;
+  }
+
+  .speaker-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .logo-group {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .logo-group img {
+    width: 182px;
+    margin: 20px;
+  }
+
+  footer {
+    padding: 0 25px;
+  }
+
+  #footer img {
+    width: 235px;
+  }
+
+  .footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .credit {
+    width: 258px;
+    line-height: 23px;
+    font-size: 18px;
+  }
+
+  .white-credit {
+    color: #fff;
+  }
+
+  .no-partners {
+    display: none;
+  }
+
+  .intro-about {
+    width: 60%;
+    padding: 12px;
+    margin: 40px auto;
+    background-color: #fff;
+  }
+
+  .logo-info {
+    background-color: #fff;
+    border-bottom: 1px solid gray;
+  }
+
+  .logo-section {
+    border: 1px solid #aaa;
+    padding: 25px;
+    width: 350px;
+    margin-top: 25px;
+  }
+
+  #footer {
+    background-color: #3b3e45;
+    padding: 24px;
+  }
+
+  .white-footer {
+    background-color: #fff;
+    height: 10px;
+  }
+
+  #footerImg1 {
+    display: none;
+  }
+
+  #footerImg2 {
+    display: inline;
+  }
+}
